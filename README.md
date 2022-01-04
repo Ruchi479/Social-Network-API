@@ -1,6 +1,5 @@
 # NoSQL: Social Network API
 
-
 ## Table of Contents 
 
 - [Description](#description)
@@ -18,7 +17,7 @@ MongoDB is a popular choice for many social networks due to its speed with large
 
 The following video shows examples of the application's API routes being tested in Insomnia Core.
 
-[Demo of API routes being tested in Insomnia Core]()
+[Demo of API routes being tested in Insomnia Core](https://watch.screencastify.com/v/AH9NwaMJ4BwCLW10WTQM)
 
 ## Installation
 
